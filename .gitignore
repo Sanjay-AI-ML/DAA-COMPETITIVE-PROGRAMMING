@@ -1,0 +1,30 @@
+# Binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Temporary lab and preview files
+*.pdf
+check_*.png
+crop_*.png
+style*.png
+test_*.png
+verify_*.png
+page*.png
+col_preview.png
+qr-*.png
+qr-*.svg
+qrcode.*
+qr_*.*
